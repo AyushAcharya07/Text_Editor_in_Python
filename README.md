@@ -1,2 +1,2 @@
-# Text_Editor_in_Python
-This text editor is implemented using Python tkinter module
+#Text_Editor_in_Python
+To implement this program you need to integrate all the images and the source code in a folder and then run it
